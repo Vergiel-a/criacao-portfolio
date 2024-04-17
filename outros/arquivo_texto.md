@@ -45,6 +45,4 @@ print("hello")
 #### Equação
 
 Essa é uma equação de regressão linear 
-```math
-y = \beta_0 + \beta_1 X + e$$
-```
+$$y = \beta_0 + \beta_1 X + e$$
