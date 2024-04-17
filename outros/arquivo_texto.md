@@ -22,7 +22,7 @@ print("hello")
 
 # Título 1
 
-![Análise Macro](criacao-portfolio/logo.png)
+![Análise Macro](../logo.png)
 
 * Item 1
 * Item 2
@@ -44,4 +44,7 @@ print("hello")
 
 #### Equação
 
-Essa é uma equação de regressão linear $$y = \beta_0 + \beta_1 X + e$$
+Essa é uma equação de regressão linear 
+```math
+y = \beta_0 + \beta_1 X + e$$
+```
